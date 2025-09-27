@@ -4,6 +4,21 @@
 
 I have experience building responsive interfaces, React applications, and integrating with APIs. I’m eager to grow within a team and create products that users will love 🚀
 
+## 🚀 Featured Projects
+
+- [Green Harvest](https://github.com/valentina2209/GreenHarvest-project-group-13) – responsive landing page  
+- [Contacts App](https://github.com/valentina2209/Contact-app) – React app with localStorage  
+- [Rental Car](https://github.com/valentina2209/RentalCar) – React Router + API integration
+
+## 🔧 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valentina2209&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentina2209&layout=compact&theme=radical)
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin\&logoColor=fff)](https://linkedin.com/in/valentyna-vovchenko)
