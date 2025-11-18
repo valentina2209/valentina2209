@@ -50,9 +50,3 @@ I have experience building responsive interfaces, React applications, and integr
 ---
 
 ✨ Thanks for visiting my profile! I’m always open to new opportunities and collaborations.
-
-### 🔥 Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=valentina2209&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-### ⏱️ My WakaTime Coding Activity
