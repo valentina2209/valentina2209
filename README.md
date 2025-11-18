@@ -31,8 +31,10 @@ I have experience building responsive interfaces, React applications, and integr
 ### ⭐ Social Stats
 <p align="left">
   <img src="https://img.shields.io/github/stars/valentina2209?style=for-the-badge&logo=github&color=9933FF" alt="GitHub Stars"/>
+  
   <img src="https://img.shields.io/github/followers/valentina2209?style=for-the-badge&logo=github&color=00BFFF" alt="GitHub Followers"/>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=valentina2209.valentina2209&style=for-the-badge&color=FF6699" alt="Profile Views"/>
+  
+  <img src="https://profile-counter.glitch.me/valentina2209/count.svg" alt="Profile Views"/>
 </p>
 
 ---
