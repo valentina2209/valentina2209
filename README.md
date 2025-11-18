@@ -34,7 +34,7 @@ I have experience building responsive interfaces, React applications, and integr
   
   <img src="https://img.shields.io/github/followers/valentina2209?style=for-the-badge&logo=github&color=00BFFF" alt="GitHub Followers"/>
 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=valentina2209.valentina2209&style=for-the-badge&color=FF6699&t=1700344521" alt="Profile Views"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=valentina2209.valentina2209&style=for-the-badge&color=FF6699&t=<?php echo time(); ?>" alt="Profile Views"/>
 </p>
 
 ---
