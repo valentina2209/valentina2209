@@ -58,7 +58,6 @@ I have experience building responsive interfaces, React applications, and integr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
-
 ---
 
 ### 👀 Profile Views (u8views)
@@ -66,8 +65,7 @@ I have experience building responsive interfaces, React applications, and integr
 
 ---
 
-### ✍️ README Builder
-- https://readme.so — builder for composing your README visually
+
 
 
 ## 🌐 Connect with Me
