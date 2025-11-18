@@ -34,8 +34,6 @@ I have experience building responsive interfaces, React applications, and integr
 ---
 
 ### 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=valentina2209&theme=tokyonight&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai)
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
 
 ---
