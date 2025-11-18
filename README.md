@@ -21,21 +21,18 @@ I have experience building responsive interfaces, React applications, and integr
 </p>
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valentina2209&show_icons=true&theme=radical)
+[![Valentina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=valentina2209&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentina2209&layout=compact&theme=radical)
 
-## 🔗 Useful Widgets & Stats
+### 🏆 GitHub Profile Trophy
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=valentina2209&theme=tokyonight&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ### 🛡️ Badges 
 ![GitHub Repo stars](https://img.shields.io/github/stars/valentina2209?style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/valentina2209?style=flat-square)
 ![Profile views](https://komarev.com/ghpvc/?username=valentina2209&color=blueviolet)
-
----
-
-### 🏆 GitHub Profile Trophy
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=valentina2209&theme=tokyonight&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-[![Valentina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=valentina2209&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -53,17 +50,6 @@ I have experience building responsive interfaces, React applications, and integr
 ---
 
 ✨ Thanks for visiting my profile! I’m always open to new opportunities and collaborations.
-### 📊 My GitHub Stats
-
-[![Valentina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=valentina2209&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### 💻 Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentina2209&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=valentina2209&theme=tokyonight&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔥 Contribution Streak
 
