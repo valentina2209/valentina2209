@@ -30,7 +30,9 @@ I have experience building responsive interfaces, React applications, and integr
 ---
 ### ⭐ Social Stats
 
-[![Followers and Stars](https://github-readme-stats.vercel.app/api/user-follow-card?username=valentina2209&theme=radical&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### ⭐ Social Stats
+
+![Followers and Stars](https://github-readme-stats.vercel.app/api/user-follow-card?username=valentina2209&theme=radical&hide_border=true&show_icons=true)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=valentina2209.valentina2209&style=for-the-badge&color=50D050)
 
