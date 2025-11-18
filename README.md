@@ -35,7 +35,6 @@ I have experience building responsive interfaces, React applications, and integr
 </p>
 
 [![Valentyna Vovchenko profile views](https://u8views.com/api/v1/github/profiles/184684022/views/day-week-month-total-count.svg)](https://u8views.com/github/valentina2209)
-[![Social Stats](https://u8views.com/api/v1/github/users/valentina2209/social)](https://u8views.com/github/valentina2209)
 
 ---
 
