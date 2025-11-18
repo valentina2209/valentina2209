@@ -10,7 +10,7 @@ I have experience building responsive interfaces, React applications, and integr
 - [Contacts App](https://github.com/valentina2209/Contact-app) – React app with localStorage  
 - [Rental Car](https://github.com/valentina2209/RentalCar) – React Router + API integration
 
-### 🛠️ Tech Stack Icons (Devicon)
+### 🛠️ Tech Stack 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
@@ -26,7 +26,7 @@ I have experience building responsive interfaces, React applications, and integr
 
 ## 🔗 Useful Widgets & Stats
 
-### 🛡️ Badges (Shields.io)
+### 🛡️ Badges 
 ![GitHub Repo stars](https://img.shields.io/github/stars/valentina2209?style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/valentina2209?style=flat-square)
 ![Profile views](https://komarev.com/ghpvc/?username=valentina2209&color=blueviolet)
@@ -35,11 +35,6 @@ I have experience building responsive interfaces, React applications, and integr
 
 ### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=valentina2209&theme=tokyonight&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🔥 GitHub Streak (Activity Streak)
-![GitHub Streak](https://streak-stats.demolab.com?user=valentina2209&theme=tokyonight)
 
 ---
 
@@ -52,9 +47,6 @@ I have experience building responsive interfaces, React applications, and integr
 ![u8views](https://u8views.com/api/v1/github/profiles/valentina2209/views/day-week-month-total-count.svg)
 
 ---
-
-
-
 
 ## 🌐 Connect with Me
 
