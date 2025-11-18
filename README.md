@@ -53,3 +53,20 @@ I have experience building responsive interfaces, React applications, and integr
 ---
 
 ✨ Thanks for visiting my profile! I’m always open to new opportunities and collaborations.
+### 📊 My GitHub Stats
+
+[![Valentina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=valentina2209&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### 💻 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentina2209&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=valentina2209&theme=tokyonight&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=valentina2209&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+### ⏱️ My WakaTime Coding Activity
