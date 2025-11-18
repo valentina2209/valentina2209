@@ -33,8 +33,8 @@ I have experience building responsive interfaces, React applications, and integr
   <img src="https://img.shields.io/github/stars/valentina2209?style=for-the-badge&logo=github&color=9933FF" alt="GitHub Stars"/>
   
   <img src="https://img.shields.io/github/followers/valentina2209?style=for-the-badge&logo=github&color=00BFFF" alt="GitHub Followers"/>
-  
-  <img src="https://hits.searl.xyz/github/valentina2209/hit-counter.svg?color=7700AA&style=for-the-badge" alt="Profile Views Count">
+
+  <img src="https://visitor-badge.glitch.me/badge?page_id=valentina2209.valentina2209&style=for-the-badge&color=FF6699&t=1700344521" alt="Profile Views"/>
 </p>
 
 ---
