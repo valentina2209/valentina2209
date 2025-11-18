@@ -19,6 +19,57 @@ I have experience building responsive interfaces, React applications, and integr
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valentina2209&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentina2209&layout=compact&theme=radical)
 
+## 🔗 Useful Widgets & Stats
+
+### 🛡️ Badges (Shields.io)
+![GitHub Repo stars](https://img.shields.io/github/stars/valentina2209?style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/valentina2209?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=valentina2209&color=blueviolet)
+
+---
+
+### 🏆 GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=valentina2209&theme=tokyonight&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📊 GitHub Readme Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=valentina2209&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentina2209&layout=compact&theme=tokyonight)
+
+---
+
+### 🔥 GitHub Streak (Activity Streak)
+![GitHub Streak](https://streak-stats.demolab.com?user=valentina2209&theme=tokyonight)
+
+---
+
+### 📈 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=valentina2209&theme=tokyo-night)
+
+---
+
+### 🛠️ Tech Stack Icons (Devicon)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
+
+---
+
+### 👀 Profile Views (u8views)
+![u8views](https://u8views.com/api/v1/github/profiles/valentina2209/views/day-week-month-total-count.svg)
+
+---
+
+### ✍️ README Builder
+- https://readme.so — builder for composing your README visually
+
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin\&logoColor=fff)](https://linkedin.com/in/valentyna-vovchenko)
