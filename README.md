@@ -28,11 +28,11 @@ I have experience building responsive interfaces, React applications, and integr
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=valentina2209&theme=tokyonight&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+### ⭐ Social Stats
 
-### 🛡️ Badges 
-![GitHub Repo stars](https://img.shields.io/github/stars/valentina2209?style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/valentina2209?style=flat-square)
-![Profile views](https://komarev.com/ghpvc/?username=valentina2209&color=blueviolet)
+[![Followers and Stars](https://github-readme-stats.vercel.app/api/user-follow-card?username=valentina2209&theme=radical&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=valentina2209.valentina2209&style=for-the-badge&color=50D050)
 
 ---
 
