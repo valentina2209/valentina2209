@@ -31,10 +31,7 @@ I have experience building responsive interfaces, React applications, and integr
 ### ⭐ Social Stats
 <p align="left">
   <img src="https://img.shields.io/github/stars/valentina2209?style=for-the-badge&logo=github&color=9933FF" alt="GitHub Stars"/>
-  
   <img src="https://img.shields.io/github/followers/valentina2209?style=for-the-badge&logo=github&color=00BFFF" alt="GitHub Followers"/>
-
-  <img src="https://visitor-badge.glitch.me/badge?page_id=valentina2209.valentina2209&style=for-the-badge&color=FF6699&t=<?php echo time(); ?>" alt="Profile Views"/>
 </p>
 
 [![Valentyna Vovchenko profile views](https://u8views.com/api/v1/github/profiles/184684022/views/day-week-month-total-count.svg)](https://u8views.com/github/valentina2209)
