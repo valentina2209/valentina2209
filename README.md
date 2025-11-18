@@ -43,11 +43,6 @@ I have experience building responsive interfaces, React applications, and integr
 
 ---
 
-### 👀 Profile Views (u8views)
-![u8views](https://u8views.com/api/v1/github/profiles/valentina2209/views/day-week-month-total-count.svg)
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin\&logoColor=fff)](https://linkedin.com/in/valentyna-vovchenko)
