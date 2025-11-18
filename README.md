@@ -36,6 +36,7 @@ I have experience building responsive interfaces, React applications, and integr
   
   <img src="https://visitor-badge.glitch.me/badge?page_id=valentina2209.valentina2209&style=for-the-badge&color=FF6699" alt="Profile Views"/>
 </p>
+
 ---
 
 ### 📈 Activity Graph
